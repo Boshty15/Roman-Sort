@@ -1,0 +1,6 @@
+c:\users\bostj\documents\visual studio 2015\Projects\Vaja01\Vaja01\bin\Debug\Vaja01.exe.config
+c:\users\bostj\documents\visual studio 2015\Projects\Vaja01\Vaja01\bin\Debug\Vaja01.exe
+c:\users\bostj\documents\visual studio 2015\Projects\Vaja01\Vaja01\bin\Debug\Vaja01.pdb
+c:\users\bostj\documents\visual studio 2015\Projects\Vaja01\Vaja01\obj\Debug\Vaja01.csprojResolveAssemblyReference.cache
+c:\users\bostj\documents\visual studio 2015\Projects\Vaja01\Vaja01\obj\Debug\Vaja01.exe
+c:\users\bostj\documents\visual studio 2015\Projects\Vaja01\Vaja01\obj\Debug\Vaja01.pdb
